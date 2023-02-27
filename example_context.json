@@ -1,0 +1,1 @@
+[{"ObjNames":["a","b","c","d"],"Params":{"AttrNames":["1"," 2"," 3"," 4","5"]}},{"Count":4,"Data":[{"Count":3,"Inds":[0,2,3]},{"Count":3,"Inds":[0,1,4]},{"Count":3,"Inds":[2,3,4]},{"Count":4,"Inds":[0,1,2,3]}]}]
